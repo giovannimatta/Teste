@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="568" viewBox="0 0 320 568">
+  <defs>
+    <clipPath id="clip-Bloqueio_saúde_1">
+      <rect width="320" height="568"/>
+    </clipPath>
+  </defs>
+  <g id="Bloqueio_saúde_1" data-name="Bloqueio saúde – 1" clip-path="url(#clip-Bloqueio_saúde_1)">
+    <rect width="320" height="568" fill="#fff"/>
+    <g id="Agrupar_103" data-name="Agrupar 103" transform="translate(0 0.5)">
+      <g id="Pin_Right" data-name="Pin Right" transform="translate(239.646 3.5)">
+        <g id="Battery" transform="translate(8.5)">
+          <g id="Battery-2" data-name="Battery" transform="translate(36 1)">
+            <g id="Border" fill="none" stroke-miterlimit="10" opacity="0.4">
+              <path d="M0,2.5A2.5,2.5,0,0,1,2.5,0h19A2.5,2.5,0,0,1,24,2.5V9a2.5,2.5,0,0,1-2.5,2.5H2.5A2.5,2.5,0,0,1,0,9Z" stroke="none"/>
+              <path d="M 2.5 1 C 1.67289924621582 1 1 1.672900199890137 1 2.5 L 1 9 C 1 9.827099800109863 1.67289924621582 10.5 2.5 10.5 L 20.14764022827148 10.5 L 21.5 10.5 C 22.32710075378418 10.5 23 9.827099800109863 23 9 L 23 2.5 C 23 1.672900199890137 22.32710075378418 1 21.5 1 L 2.5 1 M 2.5 0 L 21.5 0 C 22.88071060180664 0 24 1.119290351867676 24 2.5 L 24 9 C 24 10.38070964813232 22.88071060180664 11.5 21.5 11.5 L 20.14764022827148 11.5 L 0 11.5 L 2.5 11.5 C 1.119289398193359 11.5 0 10.38070964813232 0 9 L 0 2.5 C 0 1.119290351867676 1.119289398193359 0 2.5 0 Z" stroke="none" fill="#304160"/>
+            </g>
+            <path id="Nub" d="M0,3.874H0V0A2,2,0,0,1,1.5,1.937,2,2,0,0,1,0,3.873Z" transform="translate(25 4)" fill="#304160" opacity="0.4"/>
+            <rect id="Charge" width="20" height="7.5" rx="0.5" transform="translate(2 2)" fill="#304160"/>
+          </g>
+          <text id="_100_" data-name="100%" fill="#304160" font-size="12" font-family="Helvetica"><tspan x="2.309" y="9">100%</tspan></text>
+        </g>
+        <path id="Bluetooth" d="M0,2,6,7.5,3,10V0L6,2.5,0,8" transform="translate(0 1.5)" fill="none" stroke="#304160" stroke-miterlimit="10" stroke-width="1"/>
+      </g>
+      <text id="Time" transform="translate(157.956 12)" fill="#304160" font-size="10" font-family="Helvetica"><tspan x="-18.347" y="0">9:41 AM</tspan></text>
+      <text id="Carrier" transform="translate(26.5 12.5)" fill="#304160" font-size="12" font-family="Helvetica"><tspan x="0" y="0">Sketch</tspan></text>
+      <path id="Mobile_Signal" data-name="Mobile Signal" d="M14.5,10a1,1,0,0,1-1-1V1a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1ZM10,10A1,1,0,0,1,9,9V3a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1ZM5.5,10a1,1,0,0,1-1-1V5a1,1,0,0,1,1-1h1a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1ZM1,10A1,1,0,0,1,0,9V6.5a1,1,0,0,1,1-1H2a1,1,0,0,1,1,1V9a1,1,0,0,1-1,1Z" transform="translate(6.5 5)" fill="#304160"/>
+      <path id="Wifi" d="M7.17,10h0L4.958,7.788a3.5,3.5,0,0,1,4.424,0L7.171,10ZM3.893,6.724h0L2.477,5.306a7,7,0,0,1,9.387,0L10.448,6.722a5,5,0,0,0-6.555,0ZM1.414,4.245h0L0,2.83a10.5,10.5,0,0,1,14.341,0L12.927,4.244a8.5,8.5,0,0,0-11.512,0Z" transform="translate(71.83 5)" fill="#304160"/>
+    </g>
+    <g id="Agrupar_226" data-name="Agrupar 226" transform="translate(-18526.998 2764)">
+      <rect id="Retângulo_1545" data-name="Retângulo 1545" width="224.998" height="45" rx="4" transform="translate(18575 -2289)" fill="#345caa"/>
+    </g>
+    <g id="Agrupar_356" data-name="Agrupar 356">
+      <path id="HeatShape" d="M55.369,97.524C50.643,97.524,0,70.855,0,31.264,0,17.776,9.6,0,29.561,0c16.7,0,24.624,9.087,26.277,10.732C57.022,9.087,64.949,0,81.646,0c19.963,0,29.561,17.776,29.561,31.264C111.207,70.855,60.1,97.524,55.369,97.524Z" transform="translate(104.225 145.805)" fill="#3967b1"/>
+      <path id="Caminho_380" data-name="Caminho 380" d="M72.477,0c40.028,0,72.477,3.575,72.477,7.985S112.5,15.969,72.477,15.969,0,12.395,0,7.985,32.449,0,72.477,0Z" transform="translate(87.523 255.916)" fill="#304160" opacity="0.154"/>
+    </g>
+    <g id="dots" transform="translate(149 546)">
+      <circle id="Oval_Copy" data-name="Oval Copy" cx="3.5" cy="3.5" r="3.5" transform="translate(15)" fill="#345caa"/>
+      <circle id="Oval_Copy_2" data-name="Oval Copy 2" cx="3.5" cy="3.5" r="3.5" fill="#345caa" opacity="0.3"/>
+    </g>
+    <text id="Minhas_Trips" data-name="Minhas Trips" transform="translate(160 348)" fill="#212121" font-size="24" font-family="Lato-Black, Lato" font-weight="800"><tspan x="-33.42" y="0">Saúde</tspan></text>
+    <text id="R._Estados_Unidos_2" data-name="R. Estados Unidos, 2" transform="translate(35.5 375)" fill="#304160" font-size="16" font-family="Lato-Regular, Lato"><tspan x="3.212" y="16">Para entender seu comportamento</tspan><tspan x="26.212" y="36">precisamos acompanhar seu </tspan><tspan x="75.436" y="56">deslocamento</tspan></text>
+    <text id="Ativar_Saúde_" data-name="Ativar Saúde???" transform="translate(103.537 502)" fill="#fff" font-size="16" font-family="Lato-Bold, Lato" font-weight="700"><tspan x="0" y="0">Ativar Saúde???</tspan></text>
+  </g>
+</svg>
